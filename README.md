@@ -1,5 +1,5 @@
 <a href="https://ch1sty.github.io/practicingUItoWeb/"><h6>Web View</h6></a>
----------------------------------------------------------------------------
+<h3>-----------------------------------------------------</h3>
 
 <h2>Practicing and Hosting Figma/AdobeXD Design to HTML/CSS Conversion<h2>
 
