@@ -1,0 +1,164 @@
+
+html,*{
+    margin: 0;
+    padding: 0;
+
+    
+}
+
+
+body{
+    font-family: 'Merriweather';
+    background-color: #ffffff;
+}
+
+.card{
+    border:0px;
+    border-radius: 0;
+    background-color: #FDFDFD;
+}
+
+.header-top
+{
+
+
+}
+
+.card-head-text {
+    /* font-size: 39px; */
+}
+
+.text-orange{
+    color:#F78065;
+}
+
+.position-set{
+    margin-top:-18%;
+}
+
+.top-button{
+    position: fixed;
+    z-index: 3000;
+    right: 0;
+    background: #FFFFFF;
+    margin:.5% 8% 0% 0%;
+
+    border:1px solid rgba(46, 44, 44, 0.638);
+    border-radius: 26.5px;
+}
+
+.paddingExtra-5{
+    padding-right: 5%;
+    margin-top: 5%;
+}
+.more-pad-5{
+    margin-right: 5%;
+}
+
+
+.card-para-text{
+    /* font-size: 20px; */
+    color:#666666;
+}
+
+.custom-head-card-button{
+    color: white;
+    background-color: #F78065;
+    border:0px;
+    border-radius:0;
+
+}
+
+.no-padding{
+    padding: 2%;
+}
+
+.custom-head-card-button:hover
+{
+color:white;
+}
+
+.custom-card-top
+{
+    border:0;
+    border-radius:0;
+    box-shadow: 1px 1px #0000001b;
+}
+
+.small-card-para-text{
+    font-size:  14px;
+}
+
+
+.pb-custom-small{
+    padding-bottom: 2.35rem!important;
+}
+
+.custom-pb-4-small{
+    padding-bottom: 2.4rem!important;
+
+}
+
+.hover-under:hover{
+    text-decoration: underline;
+    text-underline-offset: 5px;
+}
+
+
+
+@media screen and (max-width:1050px)
+{
+    .position-set{
+        margin-top:0%;
+    }
+    .position-set p{
+        font-size: .8rem;
+    }
+}
+@media screen and (max-width:1050px)
+{
+    .position-set{
+        margin-top:0%;
+    }
+    .position-set p{
+        font-size: .8rem;
+    }
+
+ 
+}
+
+.small-font{
+    font-size:.65rem;
+    text-align:justify;
+}
+
+footer, footer .card{
+    background-color:#F7F7F7;
+}
+
+.line{
+   min-height: 1px;
+   color:currentColor;
+}
+
+
+
+@media screen and (max-width:768px)
+{
+    .small-screen-padding
+    {
+        padding:5%;
+    }
+
+ 
+}
+@media screen and (min-width:768px)
+{
+    .imgZoom{
+        transition: transform .6s;
+    }
+    .imgZoom:hover{
+        transform: scale(1.2);
+    }
+
+}

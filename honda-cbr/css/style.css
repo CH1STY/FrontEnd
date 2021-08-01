@@ -1,0 +1,185 @@
+.header {
+    background-color: #264653;
+    color: #E0E0E0;
+}
+
+body {
+    font-family: 'Poppins';
+    background-color: #FFFFFF;
+    color: black;
+    margin: 0px;
+}
+
+p {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.download-button{
+    border:1px solid rgba(0, 0, 0, 0.433);
+    border-radius:10%;
+}
+
+.navbar-nav .nav-link {
+    color: rgba(255, 255, 255) !important;
+}
+
+.nav-link {
+    position: static;
+    left: 27.27%;
+    right: 59.09%;
+    top: 0%;
+    bottom: 0%;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    font-feature-settings: 'liga' off;
+    color: #FFFFFF;
+}
+
+.nav-link:focus, .nav-link:hover {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+.orange-btn {
+    color: #fff;
+    background-color: #E76F51;
+    border-color: #E76F51;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.orange {
+    color: #E76F51;
+}
+
+.underline {
+    text-underline-offset: 8px;
+    text-decoration: underline;
+}
+
+.card {
+    border: none;
+}
+
+.greyed {
+    filter: grayscale(100%);
+}
+
+.mbForFeatured {
+    margin-bottom: 100px;
+}
+
+.navbar-dark .navbar-toggler {
+    border: none;
+}
+
+.card-body {
+    padding: 0;
+}
+
+.cd-border {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+}
+
+.lb-card {
+    padding-left: 1%;
+}
+
+.grey {
+    color: #6C6C6C;
+    line-height: 32px;
+    font-size: 13px;
+}
+
+.btn-outline-orange {
+    color: #E76F51;
+    border-color: #E76F51;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.btn-outline-orange:hover {
+    background-color: #E76F51;
+    color: #ffffff;
+}
+
+.orange-btn:hover {
+    background-color: #E76F51;
+    color: #ffffff;
+}
+
+.mbForLN {
+    margin-bottom: 12px;
+}
+
+.f28 {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.paddingTopBtm5 {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.hc-border {
+    border: 1px solid #DEDEDE;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.fa-star {
+    color: #E77C40;
+}
+
+.nameC{
+    color: #23A6F0;
+
+}
+
+.imageRounded{
+    border-radius: 50%;
+    
+}
+
+.accordion-item{
+    margin-top:5%;
+
+}
+
+.accordion-button{
+    font-weight: bold;
+    border: 1px solid #D5E5FB;
+    
+}
+
+.accordion-button:not(.collapsed) {
+    color: black;
+    background-color: #e7f1ff;
+   
+}
+
+.accordion-button:focus {
+   
+     border-color: transparent; 
+    
+}
+
+.accordion-button:focus {
+    border:none;
+}
+
+.gray{
+    color: #6C6C6C;
+}
+
+.footer{
+    background-color: #0B0D17;
+    color:white;
+    font-weight: 300;
+}
