@@ -1,4 +1,4 @@
-<a href="https://ch1sty.github.io/FrontEnd/"><h3>Web View</h6></3>
+<a href="https://ch1sty.github.io/FrontEnd/"><h3>Web View</h6>
 <h3>-----------------------------------------------------</h3>
 
 <h2>Practicing and Hosting Figma/AdobeXD Design to HTML/CSS Conversion<h2>
