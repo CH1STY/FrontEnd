@@ -6,6 +6,9 @@ html,*{
     
 }
 
+.fluid-header{
+    min-width: 100%;
+}
 
 body{
     font-family: 'Merriweather';
